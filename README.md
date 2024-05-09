@@ -1,5 +1,5 @@
 # House Prices - Advanced Regression Techniques
-You can download the dataset from <a url="https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview">here</a>  
+You can download the dataset [here](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview).  
 Description about the dataset: 
 + The data has many features
 + Half of the features are category
