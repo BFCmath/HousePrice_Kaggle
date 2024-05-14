@@ -15,3 +15,12 @@ About my submission:
 + Effectively using corr_matrix to choose features
 + First time implemente ExtraTree to extract features 
 + Combined both early stoping and SearchCv to fine tune
+
+about my note:
++ learn more about some new plots
++ some new definitions in statistic 
++ scipy
+
+about my remade: 
++ apply Graident Boosting 
++ skip the data analysis
